@@ -1,6 +1,36 @@
 <speak>
-<prosody pitch="3.4st">きぃーぃ</prosody>
-<prosody pitch="2.9st">ぃ</prosody>
-<prosody pitch="3.8st">ぃよぉー</prosody>
-<prosody>しぃーー　</prosody>
+  <prosody rate="slow">
+    <prosody pitch="3.4st">きぃぃい</prosody>
+    <prosody pitch="3.8st">ぃよぉー</prosody>
+    <prosody>しぃーー</prosody>
+    <break time="1s"/>
+    <prosody pitch="3.4st">こぉーー</prosody>
+    <prosody pitch="4.2st">の</prosody>
+    <prosody pitch="3.6st">よーー</prosody>
+    <prosody>るぅーー</prosody>
+    <break time="1s"/>
+    <prosody pitch="4.4st">ほぉーー</prosody>
+    <prosody pitch="4.2st">しーー</prosody>
+    <prosody pitch="3.8st">わーー</prosody>
+    <break time="1s"/>
+    <prosody pitch="3.6st">ひーー</prosody>
+    <prosody pitch="4st">かーぁ</prosody>
+    <prosody pitch="2.8st">りーー</prosody>
+    <break time="1s"/>
+    <prosody pitch="3.5st">すぅーー</prosody>
+    <prosody pitch="3.5st">くーー</prosody>
+    <prosody pitch="3.3st">いーーぃ</prosody>
+    <prosody pitch="3st">のー</prosody>
+    <prosody pitch="2.6st">みぃーい</prosody>
+    <prosody pitch="2.8st">こぉーおー</prosody>
+    <prosody pitch="2st">わーー</prosody>
+    <break time="1s"/>
+		<prosody pitch="3st">まぁーー</prosody>
+		<prosody pitch="3.4st">ぶぅー</prosody>
+		<prosody pitch="3.8st">ねぇーーぇ</prosody>
+		<prosody pitch="3.4st">のー</prosody>
+		<prosody pitch="2.8st">なぁー</prosody>
+		<prosody pitch="3.2st">かぁーあー</prosody>
+		<prosody pitch="2.8st">にぃぃー</prosody>
+  </prosody>
 </speak>
