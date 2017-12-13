@@ -30,7 +30,14 @@
 		<prosody pitch="3.8st">ねぇーーぇ</prosody>
 		<prosody pitch="3.4st">のー</prosody>
 		<prosody pitch="2.8st">なぁー</prosody>
-		<prosody pitch="3.2st">かぁーあー</prosody>
-		<prosody pitch="2.8st">にぃぃー</prosody>
+		<prosody pitch="3.2st">かぁーーぁ</prosody>
+		<prosody pitch="3st">にぃぃー</prosody>
+		<break time="1s"/>
+		<prosody pitch="3.8st">ねぇーーぇ</prosody>
+		<prosody pitch="3.8st">むぅ</prosody>
+		<prosody pitch="4st">りぃーーい</prosody>
+		<prosody pitch="4st">たぁ</prosody>
+    <prosody pitch="4st">もぉーー</prosody>
+    <prosody pitch="4st">おーーぉ</prosody>
   </prosody>
 </speak>
