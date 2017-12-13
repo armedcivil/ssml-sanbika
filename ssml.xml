@@ -39,5 +39,11 @@
 		<prosody pitch="4st">たぁ</prosody>
     <prosody pitch="4st">もぉーー</prosody>
     <prosody pitch="4st">おーーぉ</prosody>
+		<break time="1s"/>
+    <prosody pitch="3st">いーぃ</prosody>
+    <prosody pitch="3st">と</prosody>
+    <prosody pitch="3.3st">やーあ</prosody>
+    <prosody pitch="3st">すぅぅ</prosody>
+    <prosody pitch="2.8st">くぅーーー</prosody>
   </prosody>
 </speak>
